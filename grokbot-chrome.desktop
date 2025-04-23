@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Grokbot Browser 🧠
+Exec=google-chrome --user-data-dir=/home/edwa/Project/grokbot/ChromeProfile
+Icon=google-chrome
+Type=Application
+Categories=Network;WebBrowser; 

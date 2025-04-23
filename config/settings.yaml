@@ -1,0 +1,5 @@
+profile_path: "/home/edwa/Project/grokbot/ChromeProfile"
+
+proxy:
+  enabled: true
+  server: "http://login:pass@us.smartproxy.com:10000"
