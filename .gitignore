@@ -33,8 +33,14 @@ env/
 
 # Chrome Profile
 ChromeProfile/
-ChromeProfile_*/
+ChromeProfile_backup_*/
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
 
 # Project specific
-prompt_queue.txt
-*.log 
+prompt_queue.txt 
